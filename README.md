@@ -1,9 +1,12 @@
 # My-bio
 
-🚀 Full Stack Web Developer | Node.js Enthusiast | Vue.js Aficionado
+🚀 Full Stack Web Developer | Node.js | Vue.js | Kafka | PostgresSQL
 
-👨‍💻 Passionate about building robust web applications and crafting seamless user experiences. Skilled in backend technologies like Node.js and frontend frameworks like Vue.js. Excited about new challenges and constantly learning.
+Hi there! 👋 I'm a passionate Full Stack Web Developer with 4 years of hands-on experience. My expertise lies in building scalable and efficient web applications. On the backend, I thrive in Node.js, focusing on microservices and monolithic architectures. For seamless user experiences, I craft intuitive interfaces with Vue.js. I'm well-versed in messaging systems like Kafka and specialize in database management using PostgresSQL.
 
-🔧 Technologies: Node.js, Vue.js, HTML, CSS, JavaScript, Git
+🛠️ **Technologies:** Node.js, Vue.js, Kafka, PostgresSQL, HTML, CSS, JavaScript, appscript
 
-🌟 Let's code something amazing together! 🌟
+🔗 **Skills:** RESTful API Development, System Design, Database Architecture
+
+🌟 Let's create exceptional digital experiences together! 🌟
+
